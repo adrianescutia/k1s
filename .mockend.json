@@ -1,3 +1,6 @@
 {
-    "api": { "string": {} }
+    "Api": {
+        "name": {
+          "string": {}
+        }}
 }
